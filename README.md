@@ -1,5 +1,5 @@
 # qoutes-display-desktop-widget
-displays quotes of your choosing on your desktop. Transparent so you only see the quote :D. 
+displays quotes on desktop. Transparent so you only see the quote :D. 
 ### works on mac 
 
 
