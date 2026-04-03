@@ -1,0 +1,4 @@
+#I am AI, how can I help you today? Jk I'm just static text
+#super cool text
+#write your quote here
+#use the hashtag to indicate a new quote or it wont work
